@@ -237,9 +237,9 @@ const projects = [
     source_code_link: "https://www.linkedin.com/company/samuel-international-school/",
   },
   {
-    name: "Trip Guide",
+    name: "coming soon",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.                       ",
+      "#",
     tags: [
       {
         name: "github",
@@ -255,7 +255,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://www.linkedin.com/in/heechan-yang-55aa8133b",
+    source_code_link: "#",
   },
 ];
 

@@ -29,7 +29,7 @@ import tesla from "./company/tesla.png";
 
 import linkedin_home from "./linkedin_home.png";
 import School_LinkedIn from "./School_LinkedIn.png";
-import tripguide from "./tripguide.png";
+import tripguide from "./notyet.png";
 
 export {
   logo,
